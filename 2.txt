@@ -1,1 +1,3 @@
-hello from intellipa2
+welcome to samplefile
+welcome to linux varibles
+latest news
